@@ -19,14 +19,14 @@
 
 ```yaml
 nome:       Lidelmar Braga
-localização: Brasil 🇧🇷
+localizacao: Brasil 🇧🇷
 cargo_atual: Data Analyst Jr. | Software Developer Jr.
 foco:
   - Análise e visualização de dados
   - Desenvolvimento de sistemas escaláveis
   - Arquitetura limpa e APIs seguras
   - Automações e integrações
-disponível_para: Colaborações, parcerias e novas oportunidades
+disponivel_para: Colaborações, parcerias e novas oportunidades
 ```
 
 <br/>
@@ -58,9 +58,9 @@ disponível_para: Colaborações, parcerias e novas oportunidades
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Stack Technology
 
-### 🎨 Frontend
+### 🎨 Front-end
 [![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
@@ -68,15 +68,15 @@ disponível_para: Colaborações, parcerias e novas oportunidades
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/docs)
 [![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/docs)
 
-### ⚙️ Backend & Banco de Dados
+### ⚙️ Back-end & Data Software 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/docs)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/pt-br/dotnet/)
-[![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
-[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/docs)
+[![Java](https://img.shields.io/badge/Java-2D3748?style=for-the-badge&logo=%20java&logoColor=white)](https://www.prisma.io/docs)
+[![Python](https://img.shields.io/badge/Python-2D3748?style=for-the-badge&logo=python&logoColor=white)](https://www.prisma.io/docs)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
 
-### ☁️ DevOps, Cloud & Ferramentas
+### ☁️ DevOps, Cloud & Container
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://docs.aws.amazon.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/docs)
@@ -84,7 +84,7 @@ disponível_para: Colaborações, parcerias e novas oportunidades
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://help.figma.com/hc/pt-br)
 [![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)](https://docs.insomnia.rest/)
 
-## 🌐 Onde me encontrar
+## 🌐 My Networking in 
 
 <div align="center">
 
@@ -101,6 +101,9 @@ disponível_para: Colaborações, parcerias e novas oportunidades
 > *"Código não é apenas resolver problemas.*
 > *É construir soluções que escalam, perduram e geram valor real."*
 
+> *"Programar é uma base da construção de Sistemas robustos, na verdade 
+haver uma complexidade muito abragente"*
+
 <br/>
 
 ⭐ **Se o meu trabalho te ajudou, deixa uma estrela no repositório!**
@@ -111,3 +114,6 @@ disponível_para: Colaborações, parcerias e novas oportunidades
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+
+
+
